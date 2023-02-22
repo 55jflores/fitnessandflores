@@ -122,7 +122,7 @@ export default function Home() {
               <h3 className='text-3xl py-1 dark:text-gray-400'>Food and drinks I consume</h3>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>I make sure to drink lots of water in the gym and throughout the day</p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Drinks: Water, black coffee, unsweetened tea, carbonated water, zero sugar soda</p>
-              <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Snacks:  I Rarely snack, but when I do it's usually some kind of nuts</p>
+              <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Snacks:  I Rarely snack, but when I do it is usually some kind of nuts</p>
             </div>
 
             <div className='lg:flex gap-10'>
