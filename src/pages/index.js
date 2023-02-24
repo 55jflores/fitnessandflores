@@ -66,6 +66,9 @@ export default function Home() {
 
           </div>
           <h3 className='text-3xl py-1 dark:text-gray-400'>Training</h3>
+          <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Speed: Like to slow down the ecentric and squeeze at the top of the cocentric to build that mind-muscle connection</p>
+          <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Sets: I do 3 sets of 15,12 and 12 reps. Might do a few more reps in the last set if I feel I have more left in me </p>
+
 
           <div className='lg:flex gap-10'>
             <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
@@ -123,6 +126,8 @@ export default function Home() {
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>I make sure to drink lots of water in the gym and throughout the day</p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Drinks: Water, black coffee, unsweetened tea, carbonated water, zero sugar soda</p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Snacks:  I Rarely snack, but when I do it is usually some kind of nuts</p>
+              <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>I try to consume at least 100G of protein per day, as well as adequate Carbs and vegetables</p>
+
             </div>
 
             <div className='lg:flex gap-10'>
@@ -189,7 +194,7 @@ export default function Home() {
             <h3 className='text-3xl py-1 dark:text-gray-400'>Supplements</h3>
             <div className='text-center p-10'>
               <h3 className='text-3xl py-1 dark:text-gray-400'>Supplements I take for the gym</h3>
-              <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Creatine</p>
+              <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Creatine Monohydrate</p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Vitamin D</p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Omega Fish Oil</p>
               <p className='text-md py-2 leading-8 text-gray-800 dark:text-gray-400'>Magnesium</p>
