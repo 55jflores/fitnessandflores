@@ -50,7 +50,7 @@ export default function Home() {
           </div>
 
           <div className='relative mx-auto bg-gradient-to-b from-teal-500 w-60 h-80 mt-50 overflow-hidden md:h-100 md:w-100'>
-            <Image src={pull} fill style={{objectFit:'cover'}} />
+            <Image src={main_pic} fill style={{objectFit:'cover'}} />
           </div>
 
         </section>
@@ -89,7 +89,7 @@ export default function Home() {
 
             <div className='text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white'>
               
-              <Image className='mx-auto' src={main_pic} width={200} height={200} />
+              <Image className='mx-auto' src={pull}s width={200} height={200} />
               <h3 className='text-lg font-medium pt-8 pb-2'>Pull</h3>
 
               <h4 className='py-4 text-teal-600'>Day where I train my biceps, back and rear delts</h4>

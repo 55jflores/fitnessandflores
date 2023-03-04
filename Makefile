@@ -1,4 +1,4 @@
 mygit:
-git add .
-git commit -m 'More in depth explanations'
-git push -u origin main
+	git add .
+	git commit -m 'Changed Leg Day Picture'
+	git push -u origin main
