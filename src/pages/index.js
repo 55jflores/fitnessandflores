@@ -76,9 +76,9 @@ export default function Home() {
               <h3 className='text-lg font-medium pt-8 pb-2'>Push</h3>
 
               <h4 className='py-4 text-teal-600'>Day where I train my triceps, chest and lateral delts</h4>
-              <p className='text-gray-800 py-1'>Single Arm Side Tricep Pushdown</p>
+              <p className='text-gray-800 py-1'>Cross body Single Arm Cable Tricep Pushdown</p>
               <p className='text-gray-800 py-1'>High Cable Single Arm chest press</p>
-              <p className='text-gray-800 py-1'>Rope Tricep Extensions</p>
+              <p className='text-gray-800 py-1'>Cable Overhead Tricep Extension</p>
               <p className='text-gray-800 py-1'>Incline Chest Press Machine</p>
               <p className='text-gray-800 py-1'>Chest Press Machine</p>
               <p className='text-gray-800 py-1'>Cable Lateral Raises</p>
@@ -93,11 +93,11 @@ export default function Home() {
               <h3 className='text-lg font-medium pt-8 pb-2'>Pull</h3>
 
               <h4 className='py-4 text-teal-600'>Day where I train my biceps, back and rear delts</h4>
-              <p className='text-gray-800 py-1'>Single Dumbbell preacher curl</p>
+              <p className='text-gray-800 py-1'>Single Dumbbell Preacher Curl</p>
+              <p className='text-gray-800 py-1'>Seated Incline Bicep Curls</p>
               <p className='text-gray-800 py-1'>Assisted Pull-ups</p>
-              <p className='text-gray-800 py-1'>Dumbbell Hammer Curls</p>
               <p className='text-gray-800 py-1'>Single Arm Row Machine</p>
-              <p className='text-gray-800 py-1'>Incline Dumbbell Curl</p>
+              <p className='text-gray-800 py-1'>Dumbbell Hammer Curls</p>
               <p className='text-gray-800 py-1'>Single Arm Low Cable Rear Delt Fly</p>
               <p className='text-gray-800 py-1'>Standing Cable Lat Pulldown With Rope</p>
 
